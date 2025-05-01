@@ -1,0 +1,240 @@
+[
+    {
+        "name": "Languages",
+        "stacks": [
+            {
+                "name": "C",
+                "badge": "https://img.shields.io/badge/C-%2300599C.svg?style=flat&badge=c&badgeColor=white",
+                "projects": [
+                    "https://github.com/",
+                    "https://github.com/"
+                ]
+            },
+            {
+                "name": "C++",
+                "badge": "https://img.shields.io/badge/C++-%2300599C.svg?style=flat&badge=c%2B%2B&badgeColor=white",
+                "projects": [
+                    "https://github.com/",
+                    "https://github.com/"
+                ]
+            },
+            {
+                "name": "Python",
+                "badge": "https://img.shields.io/badge/Python-%23121011.svg?style=flat&logo=python&logoColor=white",
+                "projects": [
+                    "https://github.com/",
+                    "https://github.com/"
+                ]
+            },
+            {
+                "name": "MATLAB",
+                "badge": "https://img.shields.io/badge/MATLAB-red?style=flat",
+                "projects": [
+                    "https://github.com/",
+                    "https://github.com/"
+                ]
+            },
+            {
+                "name": "Verilog",
+                "badge": "https://img.shields.io/badge/Verilog-%23323330?style=flat",
+                "projects": [
+                    "https://github.com/",
+                    "https://github.com/"
+                ]
+            },
+            {
+                "name": "System Verilog",
+                "badge": "https://img.shields.io/badge/System_Verilog-%23323330?style=flat",
+                "projects": [
+                    "https://github.com/",
+                    "https://github.com/"
+                ]
+            },
+            {
+                "name": "Assembly",
+                "badge": "https://img.shields.io/badge/Assembly-black?style=flat",
+                "projects": [
+                    "https://github.com/",
+                    "https://github.com/"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Simulation Tools",
+        "stacks": [
+            {
+                "name": "CADENCE",
+                "badge": "https://img.shields.io/badge/CADENCE-%23ED8B00?style=flat",
+                "projects": [
+                    "https://github.com/",
+                    "https://github.com/"
+                ]
+            },
+            {
+                "name": "SILVACO TCAD",
+                "badge": "https://img.shields.io/badge/SILVACO_TCAD-%23316192?style=flat",
+                "projects": [
+                    "https://github.com/",
+                    "https://github.com/"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Softwares",
+        "stacks": [
+            {
+                "name": "MATLAB",
+                "badge": "https://img.shields.io/badge/MATLAB-red?style=flat",
+                "projects": [
+                    "https://github.com/",
+                    "https://github.com/"
+                ]
+            },
+            {
+                "name": "Simulink",
+                "badge": "https://img.shields.io/badge/Simulink-6DA55F?style=flat",
+                "projects": [
+                    "https://github.com/",
+                    "https://github.com/"
+                ]
+            },
+            {
+                "name": "AutoCAD",
+                "badge": "https://img.shields.io/badge/AutoCAD-%2320232a?style=flat",
+                "projects": [
+                    "https://github.com/",
+                    "https://github.com/"
+                ]
+            },
+            {
+                "name": "Proteus",
+                "badge": "https://img.shields.io/badge/Proteus-%230db7ed?style=flat",
+                "projects": [
+                    "https://github.com/",
+                    "https://github.com/"
+                ]
+            },
+            {
+                "name": "OrCAD PSpice",
+                "badge": "https://img.shields.io/badge/OrCAD_PSpice-%23316192?style=flat",
+                "projects": [
+                    "https://github.com/",
+                    "https://github.com/"
+                ]
+            },
+            {
+                "name": "Quartus",
+                "badge": "https://img.shields.io/badge/Quartus-%2320232a?style=flat",
+                "projects": [
+                    "https://github.com/",
+                    "https://github.com/"
+                ]
+            },
+            {
+                "name": "Keil µVision",
+                "badge": "https://img.shields.io/badge/Keil%20%C2%B5Vision-blue?style=flat",
+                "projects": [
+                    "https://github.com/",
+                    "https://github.com/"
+                ]
+            },
+            {
+                "name": "PSAF",
+                "badge": "https://img.shields.io/badge/PSAF-%2320232a?style=flat",
+                "projects": [
+                    "https://github.com/",
+                    "https://github.com/"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hardwares",
+        "stacks": [
+            {
+                "name": "PCB Designing",
+                "badge": "https://img.shields.io/badge/PCB_Designing-%2320232a?style=flat",
+                "projects": [
+                    "https://github.com/",
+                    "https://github.com/"
+                ]
+            },
+            {
+                "name": "Circuit Designing",
+                "badge": "https://img.shields.io/badge/Circuit_Designing-%23316192?style=flat",
+                "projects": [
+                    "https://github.com/",
+                    "https://github.com/"
+                ]
+            },
+            {
+                "name": "FPGA",
+                "badge": "https://img.shields.io/badge/FPGA-%23316192?style=flat",
+                "projects": [
+                    "https://github.com/",
+                    "https://github.com/"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Embedded Systems & Prototyping",
+        "stacks": [
+            {
+                "name": "Arduino",
+                "badge": "https://img.shields.io/badge/Arduino-%23316192?style=flat",
+                "projects": [
+                    "https://github.com/",
+                    "https://github.com/"
+                ]
+            },
+            {
+                "name": "ESP32",
+                "badge": "https://img.shields.io/badge/ESP32-6DA55F?style=flat",
+                "projects": [
+                    "https://github.com/",
+                    "https://github.com/"
+                ]
+            },
+            {
+                "name": "STM32",
+                "badge": "https://img.shields.io/badge/STM32-%23121011?style=flat",
+                "projects": [
+                    "https://github.com/",
+                    "https://github.com/"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Scientific Writing & Others",
+        "stacks": [
+            {
+                "name": "LaTeX",
+                "badge": "https://img.shields.io/badge/LaTeX-%23316192?style=flat",
+                "projects": [
+                    "https://github.com/",
+                    "https://github.com/"
+                ]
+            },
+            {
+                "name": "Linux",
+                "badge": "https://img.shields.io/badge/Linux-%23121011?style=flat",
+                "projects": [
+                    "https://github.com/",
+                    "https://github.com/"
+                ]
+            },
+            {
+                "name": "Microsoft Office Suite",
+                "badge": "https://img.shields.io/badge/Microsoft_Office_Suite-%2320232a?style=flat",
+                "projects": [
+                    "https://github.com/",
+                    "https://github.com/"
+                ]
+            }
+        ]
+    }
+]

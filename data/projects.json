@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Fire Detection System using Webcam-based Spectrometer",
+        "image": "opto_project.jpg",
+        "description": "Designed and implemented a fire detection system that uses a webcam-based spectrometer to capture real-time spectra and compare them to a reference fire spectrum. If the correlation exceeds a threshold, an alarm is triggered.",
+        "date": "2024",
+        "github": "https://github.com/Abid-67/Fire_Detection_using_Webcam_Spectrometer",
+        "stacks": [
+            "Python"
+        ]
+    },
+    {
+        "title": "Hygieia: An Autonomous Floor Cleaner",
+        "image": "control_project.jpg",
+        "description": "Designed and implemented an autonomous bot for floor cleaning with an obstacle avoidance algorithm.",
+        "date": "2023",
+        "github": "https://github.com/Abid-67/Hygieia-Autonomous_Floor_Cleaner",
+        "stacks": [
+            "Arduino"
+        ]
+    },
+    {
+        "title": "16-bit Carry Lookahead Adder Design",
+        "image": "vlsi_project.png",
+        "description": "Designed a hierarchical 16-bit Carry Lookahead Adder in CADENCE using System Verilog, verified with directed and layered testbench, and optimized for power, performance, and area (PPA).",
+        "date": "2024",
+        "github": "https://github.com/Abid-67/16-bit_CLA",
+        "stacks": [
+            "CADENCE"
+        ]
+    },
+    {
+        "title": "IOT Based MineEnvironment & Worker’s Safety Monitoring System",
+        "image": "micro_project.png",
+        "description": "Designed and implemented a system that can monitor real-time oxygen saturation, pulse rate of a worker, and temperature, pressure, and humidity inside an area of a mine through radio communication.",
+        "date": "2024",
+        "github": "https://github.com/Abid-67/IOT_Mine_Monitoring_Radio-comm",
+        "stacks": [
+            "Arduino",
+            "ESP32",
+            "Proteus"
+        ]
+    }
+]

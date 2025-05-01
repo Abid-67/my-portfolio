@@ -1,0 +1,41 @@
+[
+    {
+        "institution": "Bangladesh University of Engineering and Technology (BUET)",
+        "degree": "B.Sc. in Electrical and Electronic Engineering",
+        "duration": "Feb 2020 - Mar 2025",
+        "gpa": "",
+        "description": "",
+        "courses": [
+            "Semiconductor & Nano Devices",
+            "Compound Semiconductor Devices",
+            "VLSI Circuits & Design",
+            "Digital Electronics",
+            "Optoelectronics",
+            "Microprocessors & Embedded Systems",
+            "Nano-electronics & Nanotechnology",
+            "Analog Integrated Circuits & Design",
+            "Solid State Devices",
+            "Processing & Fabrication Technology",
+            "Electrical Properties of Materials",
+            "Control Systems",
+            "Power Electronics",
+            "Computer Programming",
+            "Communication Systems",
+            "Digital Signal Processing"
+        ]
+    },
+    {
+        "institution": "Notre Dame College, Dhaka",
+        "degree": "Higher Secondary Certificate (HSC)",
+        "duration": "2019",
+        "gpa": "",
+        "description": ""
+    },
+    {
+        "institution": "Government Laboratory High School, Dhaka",
+        "degree": "Secondary School Certificate (SSC)",
+        "duration": "2017",
+        "gpa": "",
+        "description": ""
+    }
+]
